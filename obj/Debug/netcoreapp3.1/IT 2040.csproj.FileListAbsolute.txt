@@ -1,0 +1,3 @@
+/Users/bennettw/Documents/IT 2040/obj/Debug/netcoreapp3.1/IT 2040.csprojAssemblyReference.cache
+/Users/bennettw/Documents/IT 2040/obj/Debug/netcoreapp3.1/IT 2040.AssemblyInfoInputs.cache
+/Users/bennettw/Documents/IT 2040/obj/Debug/netcoreapp3.1/IT 2040.AssemblyInfo.cs
